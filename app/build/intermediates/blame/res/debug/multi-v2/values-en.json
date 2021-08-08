@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\04. ANDROID FITUR\\SDITsattendance\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "D:\\04. ANDROID FITUR\\SDITsattendance\\app\\src\\main\\res\\values-en\\string.xml",
+                    "from": {
+                        "startLines": "2,14,13,12,11,3,9,10,4,8,7,5,6,16,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,793,747,668,590,115,474,532,192,426,380,244,322,912,839",
+                        "endColumns": "56,44,44,77,76,75,56,56,50,46,44,76,56,85,71",
+                        "endOffsets": "109,833,787,741,662,186,526,584,238,468,420,316,374,993,906"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,112,157,202,280,357,433,490,547,598,645,690,767,824,910",
+                        "endColumns": "56,44,44,77,76,75,56,56,50,46,44,76,56,85,71",
+                        "endOffsets": "107,152,197,275,352,428,485,542,593,640,685,762,819,905,977"
+                    }
+                }
+            ]
+        }
+    ]
+}

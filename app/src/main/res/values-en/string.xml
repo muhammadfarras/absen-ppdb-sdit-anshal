@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PPDB SDIT Anshal IS</string>
+    <string name="header_awal">PPDB SDIT Anshal Information System</string>
+    <string name="keluar">Click two times</string>
+    <string name="pesan_butuh_akses">We need accsess to your camera</string>
+    <string name="pesan_flash">Your flash is on</string>
+    <string name="on_flash">Turn On</string>
+    <string name="off_flash">Turn Off</string>
+    <string name="info_jenis_kelamin">By Gender</string>
+    <string name="info_jenis_kelompok">By Group</string>
+    <string name="error_barcode">The barcode pattern is not correct</string>
+    <string name="error_absen_ppdb">Opps You can\'t reach our server</string>
+    <string name="btn_kembali">Back</string>
+    <string name="btn_hadir">Attend</string>
+    <string name="text_warn_confirm">Participant have attended</string>
+    <string name="respone_post_absen">Alhamdulilah, participant have ariving</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sistem Informasi PPDB</string>
+    <string name="header_awal">Sistem Informasi PPDB SDIT Anshal</string>
+    <string name="keluar">Ketuk dua kali</string>
+    <string name="pesan_butuh_akses">Kami butuh akses kamera anda</string>
+    <string name="pesan_flash">Lampu silau anda menyala</string>
+    <string name="on_flash">Nyalakan</string>
+    <string name="off_flash">Matikan</string>
+    <string name="info_jenis_kelamin">Berdasarkan jenis kelamin</string>
+    <string name="info_jenis_kelompok">Berdasarkan kelompok</string>
+    <string name="error_barcode">Pola barcode salah</string>
+    <string name="error_absen_ppdb">Tidak terhubung ke server</string>
+    <string name="btn_kembali">Kembali</string>
+    <string name="btn_hadir">Hadir</string>
+    <string name="text_warn_confirm">Peserta sudah hadir</string>
+    <string name="respone_post_absen">Alhamdulilah, peserta sudah hadir</string>
+
+</resources>

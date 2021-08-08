@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2b6a51</color>
+    <color name="colorPrimaryDark">#2b6a51</color>
+    <color name="colorAccent">#2b6a51</color>
+    <color name="anotherFab">#F7FFF8</color>
+    <color name="transparant">#6D2B6A51</color>
+    <color name="putih">#F7FFF8</color>
+    <color name="merah">#FF0202</color>
+    <color name="bg_loading">#8FD1D1D1</color>
+    <color name="blue_card">#2193b0</color>
+    <color name="pink_card">#ee9ca7</color>
+</resources>
